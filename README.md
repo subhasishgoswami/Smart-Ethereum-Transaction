@@ -4,7 +4,7 @@ The gas mechanism on the Ethereum blockchain attempts to set charges for every s
 ## User Interface
 A scaled down version of the model can used by visiting [Ethereum Transaction Web Application](http://ethereum-transactions.herokuapp.com/).
 >Please note that this web application is a highly scaled down version of the model and is based on previous gas prices.
-Repository of the web application can visited at [Smart-Ethereum-Transactions-Frontend](http://ethereum-transactions.herokuapp.com/)
+Repository of the web application can visited at [Smart-Ethereum-Transactions-Frontend](https://github.com/subhasishgoswami/Smart-Ethereum-Transaction-Frontend)
 
 ## Proposed Architecture
 The proposed model is based on use of various machine learning algorithms with the dataset of transaction parameters.
